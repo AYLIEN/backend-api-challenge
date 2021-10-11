@@ -28,8 +28,8 @@ If you have any questions about this challenge, please feel free to email them t
 
 ## You are required to:
 * Provide an appropriate evaluation of the secret santa algorithm  
-* Create a REST service using the quarkus framework
-* Use relational database (MySQL / PostgreSQL)
+* Create a REST service using the quarkus / spring framework
+* Use relational database (MySQL / PostgreSQL / H2)
 * Document instructions on how to build and run the service locally
 * Create a container with your solution that can be run on Kubernetes
 * Provide curl commands or a Postman collection for interaction with the service

@@ -10,9 +10,9 @@ We wish you all the best and good luck!
 
 Design and implement a REST API service that will choose a [Secret Santa](https://en.wikipedia.org/wiki/Secret_Santa) for all your teammates.
 
-Please zip your project folder with instructions for running your application and send it to francesca@aylien.com
+Please zip your project folder with instructions for running your application and send it to noel.odowd@aylien.com.
 
-If you have any questions about this challenge, please feel free to email them to: marcin@aylien.com
+If you have any questions about this challenge, please feel free to email them to: marcin@aylien.com.
 
 ## Requirements
 
